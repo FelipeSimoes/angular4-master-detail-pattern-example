@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:300,400,600');
+
+$f-family: 'Fira Sans', Arial, Helvetica Neue, Helvetica, sans-serif;
+$baseline: 8px;
+
+body {
+    font-family: $f-family;
+    font-size: $baseline * 2;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: $baseline * 3;
+}

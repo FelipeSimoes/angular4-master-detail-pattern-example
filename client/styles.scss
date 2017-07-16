@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "./app/common/vendor/reset";
+@import "./app/common/variables";
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    display: block;
+    box-sizing: content-box;
+    padding: 0 16px;
+}

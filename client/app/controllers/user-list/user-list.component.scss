@@ -1,0 +1,14 @@
+@import '../../common/variables';
+
+.list {
+    display: block;
+}
+.title {
+    font-family: $f-family;
+    font-size: $baseline * 5;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 300;
+    line-height: $baseline * 5;
+    color: $c-dark-gray; 
+}
